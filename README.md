@@ -1,5 +1,7 @@
 # action-repo
 
+This action repo is a dummy repo created to monitor github actions like(push, pull and merge). Following are come changes done to test these actions.
+
 let's test
 
 Check webhook
